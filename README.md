@@ -14,19 +14,25 @@ Vocal parts are integrated into the [hymnals](https://github.com/crescendosw/hym
 1. Add desired song directories to local "vocals" repository
 * Optionally update `availScores.json`
 2. Open Terminal (Cmd+Space, type "Terminal")
-3. Download latest version of the scripts & hymnals repository
+3. Push new vocal song directories up to GitHub
+* `cd ~/dev/crescendo/vocals`
+* `git pull`
+* `git add .`
+* `git commit -m "<meaningful message>"`
+* `git push`
+4. Download latest version of the scripts & hymnals repository
 * `cd ~/dev/crescendo/scripts`
 * `git pull`
 * `cd ~/dev/crescendo/hymnals`
 * `git pull`
-4. Run script to inject new vocals into hymnals
+5. Run script to inject new vocals into hymnals
 * `python3 ../scripts/server/manifest_gen.py`
-5. Verify changes made to hymnals repository (bug Mike if unexpected)
+6. Verify changes made to hymnals repository (bug Mike if unexpected)
 * `cd ~/dev/crescendo/hymnals`
 * `git status`
-6. Push hymnals changes up to Sing Your Part
+7. Push hymnals changes up to Sing Your Part
 * `cd ~/dev/crescendo/hymnals`
 * `git add .`
 * `git commit -m "<meaningful message>"`
 * `git push`
-7. Within 1-2 minutes, look for changes in app (may require restart)
+8. Within 1-2 minutes, look for changes in app (may require restart)
