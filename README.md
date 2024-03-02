@@ -30,6 +30,7 @@ Vocal parts are integrated into the [hymnals](https://github.com/crescendosw/hym
 6. Verify changes made to hymnals repository (bug Mike if unexpected)
 * `cd ~/dev/crescendo/hymnals`
 * `git status`
+* `git diff` -> to view unexpected changes (if any, `q` to quit)
 7. Push hymnals changes up to Sing Your Part
 * `cd ~/dev/crescendo/hymnals`
 * `git add .`
