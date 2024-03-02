@@ -6,9 +6,9 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2023-07-01</encoding-date>
+   <encoding-date>2024-02-29</encoding-date>
    <encoder>Francis Jeschke</encoder>
-   <software>Sibelius 22.5.0</software>
+   <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -934,7 +934,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-108" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>con</text>
     </lyric>
    </note>
@@ -953,8 +953,9 @@
      <slur color="#000000" type="start" orientation="under" />
     </notations>
     <lyric default-y="-108" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>triv</text>
+     <syllabic>single</syllabic>
+     <text>tri</text>
+     <extend />
     </lyric>
    </note>
    <note color="#000000" default-x="532" default-y="-5">
@@ -983,8 +984,8 @@
     <type>whole</type>
     <staff>1</staff>
     <lyric default-y="-108" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>ing,</text>
+     <syllabic>single</syllabic>
+     <text>ving,</text>
     </lyric>
    </note>
   </measure>
@@ -5324,7 +5325,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-108" number="part2verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>con</text>
     </lyric>
    </note>
@@ -5343,8 +5344,9 @@
      <slur color="#000000" type="start" orientation="under" />
     </notations>
     <lyric default-y="-108" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>triv</text>
+     <syllabic>single</syllabic>
+     <text>tri</text>
+     <extend />
     </lyric>
    </note>
    <note color="#000000" default-x="564" default-y="-15">
@@ -5375,8 +5377,8 @@
     <type>whole</type>
     <staff>1</staff>
     <lyric default-y="-108" number="part2verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>ing,</text>
+     <syllabic>single</syllabic>
+     <text>ving,</text>
     </lyric>
    </note>
   </measure>
@@ -9766,7 +9768,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-108" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>con</text>
     </lyric>
    </note>
@@ -9786,8 +9788,9 @@
      <slur color="#000000" type="start" orientation="over" />
     </notations>
     <lyric default-y="-108" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>triv</text>
+     <syllabic>single</syllabic>
+     <text>tri</text>
+     <extend />
     </lyric>
    </note>
    <forward>
@@ -9819,8 +9822,8 @@
     <type>whole</type>
     <staff>1</staff>
     <lyric default-y="-108" number="part3verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>ing,</text>
+     <syllabic>single</syllabic>
+     <text>ving,</text>
     </lyric>
    </note>
   </measure>
@@ -14222,7 +14225,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-108" number="part4verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>con</text>
     </lyric>
    </note>
@@ -14243,8 +14246,9 @@
      <slur color="#000000" type="start" orientation="under" />
     </notations>
     <lyric default-y="-108" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>triv</text>
+     <syllabic>single</syllabic>
+     <text>tri</text>
+     <extend />
     </lyric>
    </note>
    <note color="#000000" default-x="532" default-y="27">
@@ -14273,8 +14277,8 @@
     <type>whole</type>
     <staff>1</staff>
     <lyric default-y="-108" number="part4verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>ing,</text>
+     <syllabic>single</syllabic>
+     <text>ving,</text>
     </lyric>
    </note>
   </measure>
