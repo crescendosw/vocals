@@ -6,9 +6,9 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2024-02-03</encoding-date>
+   <encoding-date>2024-04-11</encoding-date>
    <encoder>Francis Jeschke</encoder>
-   <software>Sibelius 23.8.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -2970,7 +2970,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>tu</text>
     </lyric>
    </note>
@@ -2993,7 +2993,7 @@
      <slur color="#000000" type="start" orientation="over" />
     </notations>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>mul</text>
      <extend />
     </lyric>
@@ -3025,8 +3025,8 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
-     <text>tuous</text>
+     <syllabic>single</syllabic>
+     <text>twos</text>
     </lyric>
    </note>
   </measure>
@@ -3056,7 +3056,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>lee,</text>
     </lyric>
    </note>
@@ -3127,8 +3127,8 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
-     <text>mov</text>
+     <syllabic>single</syllabic>
+     <text>move</text>
     </lyric>
    </note>
    <note color="#000000" default-x="138" default-y="-55">
@@ -3143,7 +3143,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
     </lyric>
    </note>
@@ -3261,7 +3261,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>ter</text>
     </lyric>
    </note>
@@ -3292,7 +3292,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
     </lyric>
    </note>
@@ -6274,7 +6274,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>tu</text>
     </lyric>
    </note>
@@ -6293,7 +6293,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>single</syllabic>
      <text>mul</text>
     </lyric>
    </note>
@@ -6310,8 +6310,8 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>tuous</text>
+     <syllabic>single</syllabic>
+     <text>twos</text>
     </lyric>
    </note>
   </measure>
@@ -6343,7 +6343,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>lee,</text>
     </lyric>
    </note>
@@ -6413,8 +6413,8 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>begin</syllabic>
-     <text>mov</text>
+     <syllabic>single</syllabic>
+     <text>move</text>
     </lyric>
    </note>
    <note color="#000000" default-x="138" default-y="-10">
@@ -6429,7 +6429,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
     </lyric>
    </note>
@@ -6568,7 +6568,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>ter</text>
     </lyric>
    </note>
@@ -6601,7 +6601,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part2verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
     </lyric>
    </note>
@@ -9591,7 +9591,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>tu</text>
     </lyric>
    </note>
@@ -9613,7 +9613,7 @@
      <slur color="#000000" type="start" orientation="over" />
     </notations>
     <lyric default-y="-90" number="part3verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>mul</text>
      <extend />
     </lyric>
@@ -9647,7 +9647,7 @@
     <beam number="1">begin</beam>
     <lyric default-y="-90" number="part3verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>tuous</text>
+     <text>twos</text>
      <extend />
     </lyric>
    </note>
@@ -9765,8 +9765,8 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
-     <text>mov</text>
+     <syllabic>single</syllabic>
+     <text>move</text>
     </lyric>
    </note>
    <note color="#000000" default-x="138" default-y="-40">
@@ -9781,7 +9781,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part3verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
     </lyric>
    </note>
@@ -9902,7 +9902,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>ter</text>
     </lyric>
    </note>
@@ -9939,7 +9939,7 @@
      <slur color="#000000" type="start" orientation="over" />
     </notations>
     <lyric default-y="-90" number="part3verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
      <extend />
     </lyric>
@@ -12923,7 +12923,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>tu</text>
     </lyric>
    </note>
@@ -12946,7 +12946,7 @@
      <slur color="#000000" type="start" orientation="over" />
     </notations>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>mul</text>
      <extend />
     </lyric>
@@ -12978,8 +12978,8 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>begin</syllabic>
-     <text>tuous</text>
+     <syllabic>single</syllabic>
+     <text>twos</text>
     </lyric>
    </note>
   </measure>
@@ -13011,7 +13011,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>lee,</text>
     </lyric>
    </note>
@@ -13082,8 +13082,8 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>begin</syllabic>
-     <text>mov</text>
+     <syllabic>single</syllabic>
+     <text>move</text>
     </lyric>
    </note>
    <note color="#000000" default-x="138" default-y="-67">
@@ -13098,7 +13098,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
     </lyric>
    </note>
@@ -13217,7 +13217,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>ter</text>
     </lyric>
    </note>
@@ -13254,7 +13254,7 @@
      <slur color="#000000" type="start" orientation="over" />
     </notations>
     <lyric default-y="-90" number="part4verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>ed</text>
      <extend />
     </lyric>
