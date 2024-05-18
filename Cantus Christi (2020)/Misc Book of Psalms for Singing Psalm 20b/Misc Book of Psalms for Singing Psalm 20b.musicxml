@@ -6,9 +6,9 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2024-01-25</encoding-date>
+   <encoding-date>2024-05-11</encoding-date>
    <encoder>Francis Jeschke</encoder>
-   <software>Sibelius 23.8.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -38,7 +38,7 @@
     <left-margin>67</left-margin>
     <right-margin>0</right-margin>
    </system-margins>
-   <system-distance>40</system-distance>
+   <system-distance>20</system-distance>
   </system-layout>
   <appearance>
    <line-width type="stem">1.25</line-width>
@@ -321,7 +321,7 @@
       <left-margin>109</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -446,7 +446,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -548,7 +548,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -651,7 +651,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -720,7 +720,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -837,7 +837,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -938,7 +938,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1020,7 +1020,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1080,14 +1080,14 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 18 ==============-->
-  <measure number="18" width="183">
+  <measure number="18" width="242">
    <print new-page="yes">
     <system-layout>
      <system-margins>
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1101,10 +1101,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="171">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P1, Measure: 19 ==============-->
-  <measure number="19" width="123">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="19" width="130">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -1122,7 +1136,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 20 ==============-->
-  <measure number="20" width="307">
+  <measure number="20" width="276">
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
@@ -1139,7 +1153,7 @@
      <text>He</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="198" default-y="-55">
+   <note color="#000000" default-x="179" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -1157,7 +1171,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 21 ==============-->
-  <measure number="21" width="347">
+  <measure number="21" width="312">
    <note color="#000000" default-x="15" default-y="-50">
     <pitch>
      <step>C</step>
@@ -1174,7 +1188,7 @@
      <text>sac</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="239" default-y="-55">
+   <note color="#000000" default-x="215" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -1199,7 +1213,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1301,7 +1315,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>121</top-system-distance>
+     <top-system-distance>41</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1405,7 +1419,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1474,7 +1488,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1592,7 +1606,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1694,7 +1708,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1776,7 +1790,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1836,14 +1850,14 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 36 ==============-->
-  <measure number="36" width="257">
+  <measure number="36" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -1857,10 +1871,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P1, Measure: 37 ==============-->
-  <measure number="37" width="197">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="37" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -1878,7 +1906,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 38 ==============-->
-  <measure number="38" width="506">
+  <measure number="38" width="431">
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
@@ -1895,7 +1923,7 @@
      <text>your</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="-55">
+   <note color="#000000" default-x="277" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -1920,7 +1948,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2022,7 +2050,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2126,7 +2154,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2210,7 +2238,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>121</top-system-distance>
+     <top-system-distance>41</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2293,7 +2321,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2414,7 +2442,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2496,7 +2524,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2572,14 +2600,14 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 53 ==============-->
-  <measure number="53" width="467">
+  <measure number="53" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2603,7 +2631,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 54 ==============-->
-  <measure number="54" width="246">
+  <measure number="54" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -2612,10 +2640,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P1, Measure: 55 ==============-->
-  <measure number="55" width="246">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="55" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -2640,7 +2682,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2722,7 +2764,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>121</top-system-distance>
+     <top-system-distance>41</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2824,7 +2866,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2928,7 +2970,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -2997,7 +3039,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3115,7 +3157,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3216,7 +3258,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3298,7 +3340,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3358,14 +3400,14 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 72 ==============-->
-  <measure number="72" width="257">
+  <measure number="72" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3379,10 +3421,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P1, Measure: 73 ==============-->
-  <measure number="73" width="197">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="73" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -3400,7 +3456,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 74 ==============-->
-  <measure number="74" width="506">
+  <measure number="74" width="431">
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
@@ -3417,7 +3473,7 @@
      <text>chair</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="-55">
+   <note color="#000000" default-x="277" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -3442,7 +3498,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3544,7 +3600,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3648,7 +3704,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3732,7 +3788,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3815,7 +3871,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -3936,7 +3992,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4018,7 +4074,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>121</top-system-distance>
+     <top-system-distance>41</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4094,14 +4150,14 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 89 ==============-->
-  <measure number="89" width="467">
+  <measure number="89" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4125,7 +4181,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 90 ==============-->
-  <measure number="90" width="246">
+  <measure number="90" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -4134,10 +4190,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P1, Measure: 91 ==============-->
-  <measure number="91" width="246">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="91" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -4162,7 +4232,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4244,7 +4314,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4345,7 +4415,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4449,7 +4519,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4518,7 +4588,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4636,7 +4706,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4738,7 +4808,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -4820,7 +4890,7 @@
       <left-margin>67</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>120</top-system-distance>
+     <top-system-distance>40</top-system-distance>
     </system-layout>
    </print>
    <attributes>
@@ -5608,7 +5678,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 18 ==============-->
-  <measure number="18" width="183">
+  <measure number="18" width="242">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -5617,7 +5687,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -5631,10 +5701,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="171">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P2, Measure: 19 ==============-->
-  <measure number="19" width="123">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="19" width="130">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -5652,7 +5736,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 20 ==============-->
-  <measure number="20" width="307">
+  <measure number="20" width="276">
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -5670,7 +5754,7 @@
      <text>He</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="198" default-y="5">
+   <note color="#000000" default-x="179" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -5688,7 +5772,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 21 ==============-->
-  <measure number="21" width="347">
+  <measure number="21" width="312">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
      <step>E</step>
@@ -5709,7 +5793,7 @@
      <text>sac</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="160">
+   <note color="#000000" default-x="145">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -5725,7 +5809,7 @@
      <slur color="#000000" type="stop" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="239" default-y="5">
+   <note color="#000000" default-x="215" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -5752,7 +5836,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -5837,7 +5921,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -5922,7 +6006,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -5993,7 +6077,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6097,7 +6181,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6183,7 +6267,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6268,7 +6352,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6327,7 +6411,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 36 ==============-->
-  <measure number="36" width="257">
+  <measure number="36" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -6336,7 +6420,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6350,10 +6434,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P2, Measure: 37 ==============-->
-  <measure number="37" width="197">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="37" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -6371,7 +6469,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 38 ==============-->
-  <measure number="38" width="506">
+  <measure number="38" width="431">
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -6389,7 +6487,7 @@
      <text>your</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="5">
+   <note color="#000000" default-x="277" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -6416,7 +6514,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6522,7 +6620,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6606,7 +6704,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6692,7 +6790,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6781,7 +6879,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6866,7 +6964,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -6951,7 +7049,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7027,7 +7125,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 53 ==============-->
-  <measure number="53" width="467">
+  <measure number="53" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -7036,7 +7134,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7060,7 +7158,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 54 ==============-->
-  <measure number="54" width="246">
+  <measure number="54" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -7069,10 +7167,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P2, Measure: 55 ==============-->
-  <measure number="55" width="246">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="55" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -7099,7 +7211,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7205,7 +7317,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7290,7 +7402,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7375,7 +7487,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7446,7 +7558,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7549,7 +7661,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7635,7 +7747,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7720,7 +7832,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7779,7 +7891,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 72 ==============-->
-  <measure number="72" width="257">
+  <measure number="72" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -7788,7 +7900,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7802,10 +7914,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P2, Measure: 73 ==============-->
-  <measure number="73" width="197">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="73" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -7823,7 +7949,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 74 ==============-->
-  <measure number="74" width="506">
+  <measure number="74" width="431">
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -7841,7 +7967,7 @@
      <text>chair</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="5">
+   <note color="#000000" default-x="277" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -7868,7 +7994,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -7974,7 +8100,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8058,7 +8184,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8144,7 +8270,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8233,7 +8359,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8318,7 +8444,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8403,7 +8529,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8479,7 +8605,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 89 ==============-->
-  <measure number="89" width="467">
+  <measure number="89" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -8488,7 +8614,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8512,7 +8638,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 90 ==============-->
-  <measure number="90" width="246">
+  <measure number="90" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -8521,10 +8647,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P2-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P2, Measure: 91 ==============-->
-  <measure number="91" width="246">
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="91" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -8551,7 +8691,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8656,7 +8796,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8741,7 +8881,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8826,7 +8966,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -8897,7 +9037,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -9000,7 +9140,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -9086,7 +9226,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -9171,7 +9311,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -9965,7 +10105,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 18 ==============-->
-  <measure number="18" width="183">
+  <measure number="18" width="242">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -9974,7 +10114,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -9988,10 +10128,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="171">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P3-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P3, Measure: 19 ==============-->
-  <measure number="19" width="123">
-   <note color="#000000" default-x="15" default-y="-30">
+  <measure number="19" width="130">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-30">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -10009,7 +10163,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 20 ==============-->
-  <measure number="20" width="307">
+  <measure number="20" width="276">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>D</step>
@@ -10026,7 +10180,7 @@
      <text>He</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="198" default-y="-20">
+   <note color="#000000" default-x="179" default-y="-20">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -10044,7 +10198,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 21 ==============-->
-  <measure number="21" width="347">
+  <measure number="21" width="312">
    <note color="#000000" default-x="15" default-y="-25">
     <pitch>
      <step>C</step>
@@ -10061,7 +10215,7 @@
      <text>sac</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="239" default-y="-20">
+   <note color="#000000" default-x="215" default-y="-20">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -10088,7 +10242,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10172,7 +10326,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10256,7 +10410,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10325,7 +10479,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10445,7 +10599,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10529,7 +10683,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10633,7 +10787,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10692,7 +10846,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 36 ==============-->
-  <measure number="36" width="257">
+  <measure number="36" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -10701,7 +10855,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10715,10 +10869,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P3-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P3, Measure: 37 ==============-->
-  <measure number="37" width="197">
-   <note color="#000000" default-x="15" default-y="-30">
+  <measure number="37" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-30">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -10736,7 +10904,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 38 ==============-->
-  <measure number="38" width="506">
+  <measure number="38" width="431">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>D</step>
@@ -10753,7 +10921,7 @@
      <text>your</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="-20">
+   <note color="#000000" default-x="277" default-y="-20">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -10780,7 +10948,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10864,7 +11032,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -10948,7 +11116,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11032,7 +11200,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11117,7 +11285,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11220,7 +11388,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11304,7 +11472,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11399,7 +11567,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 53 ==============-->
-  <measure number="53" width="467">
+  <measure number="53" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -11408,7 +11576,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11432,7 +11600,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 54 ==============-->
-  <measure number="54" width="246">
+  <measure number="54" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -11441,10 +11609,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P3-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P3, Measure: 55 ==============-->
-  <measure number="55" width="246">
-   <note color="#000000" default-x="15" default-y="-30">
+  <measure number="55" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-30">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -11471,7 +11653,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11555,7 +11737,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11639,7 +11821,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11723,7 +11905,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11792,7 +11974,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11912,7 +12094,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -11996,7 +12178,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12099,7 +12281,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12158,7 +12340,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 72 ==============-->
-  <measure number="72" width="257">
+  <measure number="72" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -12167,7 +12349,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12181,10 +12363,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P3-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P3, Measure: 73 ==============-->
-  <measure number="73" width="197">
-   <note color="#000000" default-x="15" default-y="-30">
+  <measure number="73" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-30">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -12202,7 +12398,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 74 ==============-->
-  <measure number="74" width="506">
+  <measure number="74" width="431">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>D</step>
@@ -12219,7 +12415,7 @@
      <text>chair</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="-20">
+   <note color="#000000" default-x="277" default-y="-20">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -12246,7 +12442,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12330,7 +12526,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12414,7 +12610,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12498,7 +12694,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12583,7 +12779,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12686,7 +12882,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12770,7 +12966,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12865,7 +13061,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 89 ==============-->
-  <measure number="89" width="467">
+  <measure number="89" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -12874,7 +13070,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -12898,7 +13094,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 90 ==============-->
-  <measure number="90" width="246">
+  <measure number="90" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -12907,10 +13103,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P3-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P3, Measure: 91 ==============-->
-  <measure number="91" width="246">
-   <note color="#000000" default-x="15" default-y="-30">
+  <measure number="91" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-30">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -12937,7 +13147,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -13021,7 +13231,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -13105,7 +13315,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -13189,7 +13399,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -13258,7 +13468,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -13378,7 +13588,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -13462,7 +13672,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -13566,7 +13776,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14325,7 +14535,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 18 ==============-->
-  <measure number="18" width="183">
+  <measure number="18" width="242">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -14334,7 +14544,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14348,10 +14558,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="171">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P4-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P4, Measure: 19 ==============-->
-  <measure number="19" width="123">
-   <note color="#000000" default-x="15" default-y="-40">
+  <measure number="19" width="130">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -14369,7 +14593,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 20 ==============-->
-  <measure number="20" width="307">
+  <measure number="20" width="276">
    <note color="#000000" default-x="15" default-y="-55">
     <pitch>
      <step>D</step>
@@ -14386,7 +14610,7 @@
      <text>He</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="198" default-y="-40">
+   <note color="#000000" default-x="179" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -14404,7 +14628,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 21 ==============-->
-  <measure number="21" width="347">
+  <measure number="21" width="312">
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
      <step>A</step>
@@ -14421,7 +14645,7 @@
      <text>sac</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="239" default-y="-40">
+   <note color="#000000" default-x="215" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -14448,7 +14672,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14532,7 +14756,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14619,7 +14843,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14688,7 +14912,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14788,7 +15012,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14873,7 +15097,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -14957,7 +15181,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15016,7 +15240,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 36 ==============-->
-  <measure number="36" width="257">
+  <measure number="36" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -15025,7 +15249,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15039,10 +15263,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P4-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P4, Measure: 37 ==============-->
-  <measure number="37" width="197">
-   <note color="#000000" default-x="15" default-y="-40">
+  <measure number="37" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -15060,7 +15298,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 38 ==============-->
-  <measure number="38" width="506">
+  <measure number="38" width="431">
    <note color="#000000" default-x="15" default-y="-55">
     <pitch>
      <step>D</step>
@@ -15077,7 +15315,7 @@
      <text>your</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="-40">
+   <note color="#000000" default-x="277" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -15104,7 +15342,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15188,7 +15426,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15273,7 +15511,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15359,7 +15597,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15444,7 +15682,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15529,7 +15767,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15613,7 +15851,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15688,7 +15926,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 53 ==============-->
-  <measure number="53" width="467">
+  <measure number="53" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -15697,7 +15935,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15721,7 +15959,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 54 ==============-->
-  <measure number="54" width="246">
+  <measure number="54" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -15730,10 +15968,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P4-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P4, Measure: 55 ==============-->
-  <measure number="55" width="246">
-   <note color="#000000" default-x="15" default-y="-40">
+  <measure number="55" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -15760,7 +16012,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15844,7 +16096,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -15928,7 +16180,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16015,7 +16267,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16084,7 +16336,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16184,7 +16436,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16269,7 +16521,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16353,7 +16605,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16408,7 +16660,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 72 ==============-->
-  <measure number="72" width="257">
+  <measure number="72" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -16417,7 +16669,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16431,10 +16683,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P4-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P4, Measure: 73 ==============-->
-  <measure number="73" width="197">
-   <note color="#000000" default-x="15" default-y="-40">
+  <measure number="73" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -16452,7 +16718,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 74 ==============-->
-  <measure number="74" width="506">
+  <measure number="74" width="431">
    <note color="#000000" default-x="15" default-y="-55">
     <pitch>
      <step>D</step>
@@ -16469,7 +16735,7 @@
      <text>chair</text>
     </lyric>
    </note>
-   <note color="#000000" default-x="324" default-y="-40">
+   <note color="#000000" default-x="277" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -16496,7 +16762,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16580,7 +16846,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16665,7 +16931,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16751,7 +17017,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16836,7 +17102,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -16921,7 +17187,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17005,7 +17271,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17080,7 +17346,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 89 ==============-->
-  <measure number="89" width="467">
+  <measure number="89" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -17089,7 +17355,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17113,7 +17379,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 90 ==============-->
-  <measure number="90" width="246">
+  <measure number="90" width="341">
    <note default-x="15">
     <rest />
     <duration>256</duration>
@@ -17122,10 +17388,24 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P4-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
   </measure>
   <!--============== Part: P4, Measure: 91 ==============-->
-  <measure number="91" width="246">
-   <note color="#000000" default-x="15" default-y="-40">
+  <measure number="91" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -17152,7 +17432,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17236,7 +17516,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17320,7 +17600,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17407,7 +17687,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17476,7 +17756,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>170</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17576,7 +17856,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17661,7 +17941,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>70</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -17745,7 +18025,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>211</staff-distance>
+     <staff-distance>261</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -19723,7 +20003,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 18 ==============-->
-  <measure number="18" width="183">
+  <measure number="18" width="242">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -19732,7 +20012,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -19747,8 +20027,16 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="171">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
    <backup>
-    <duration>256</duration>
+    <duration>384</duration>
    </backup>
    <note default-x="75">
     <rest />
@@ -19758,11 +20046,24 @@
     <type>quarter</type>
     <staff>2</staff>
    </note>
+   <note default-x="171">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>3</voice>
+    <type>eighth</type>
+    <staff>2</staff>
+   </note>
   </measure>
   <!--============== Part: P5, Measure: 19 ==============-->
-  <measure number="19" width="123">
-   <attributes />
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="19" width="130">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -19777,7 +20078,7 @@
    <backup>
     <duration>256</duration>
    </backup>
-   <note color="#000000" default-x="15" default-y="-40">
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -19789,7 +20090,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="15">
+   <note color="#000000" default-x="33">
     <chord />
     <pitch>
      <step>B</step>
@@ -19802,7 +20103,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 20 ==============-->
-  <measure number="20" width="307">
+  <measure number="20" width="276">
    <attributes />
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
@@ -19828,7 +20129,7 @@
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="198" default-y="15">
+   <note color="#000000" default-x="179" default-y="15">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -19840,7 +20141,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="198">
+   <note color="#000000" default-x="179">
     <chord />
     <pitch>
      <step>B</step>
@@ -19877,7 +20178,7 @@
     <type>half</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="198" default-y="-40">
+   <note color="#000000" default-x="179" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -19889,7 +20190,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="198">
+   <note color="#000000" default-x="179">
     <chord />
     <pitch>
      <step>D</step>
@@ -19902,7 +20203,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 21 ==============-->
-  <measure number="21" width="347">
+  <measure number="21" width="312">
    <attributes />
    <note color="#000000" default-x="15" default-y="17">
     <pitch>
@@ -19916,7 +20217,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="239" default-y="15">
+   <note color="#000000" default-x="215" default-y="15">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -19928,7 +20229,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="239">
+   <note color="#000000" default-x="215">
     <chord />
     <pitch>
      <step>B</step>
@@ -19958,7 +20259,7 @@
      <slur color="#000000" type="start" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="160" default-y="-62">
+   <note color="#000000" default-x="145" default-y="-62">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -19974,7 +20275,7 @@
      <slur color="#000000" type="stop" orientation="under" />
     </notations>
    </note>
-   <note default-x="239">
+   <note default-x="215">
     <rest />
     <duration>256</duration>
     <instrument id="P5-I1" />
@@ -20008,7 +20309,7 @@
     <type>half</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="239" default-y="-40">
+   <note color="#000000" default-x="215" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -20020,7 +20321,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="239">
+   <note color="#000000" default-x="215">
     <chord />
     <pitch>
      <step>D</step>
@@ -20042,7 +20343,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -20286,7 +20587,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -20535,7 +20836,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -20714,7 +21015,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -21020,7 +21321,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -21241,7 +21542,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -21468,7 +21769,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -21631,7 +21932,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 36 ==============-->
-  <measure number="36" width="257">
+  <measure number="36" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -21640,7 +21941,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -21655,8 +21956,16 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
    <backup>
-    <duration>256</duration>
+    <duration>384</duration>
    </backup>
    <note default-x="75">
     <rest />
@@ -21666,11 +21975,24 @@
     <type>quarter</type>
     <staff>2</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>3</voice>
+    <type>eighth</type>
+    <staff>2</staff>
+   </note>
   </measure>
   <!--============== Part: P5, Measure: 37 ==============-->
-  <measure number="37" width="197">
-   <attributes />
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="37" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -21685,7 +22007,7 @@
    <backup>
     <duration>256</duration>
    </backup>
-   <note color="#000000" default-x="15" default-y="-40">
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -21697,7 +22019,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="15">
+   <note color="#000000" default-x="33">
     <chord />
     <pitch>
      <step>B</step>
@@ -21710,7 +22032,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 38 ==============-->
-  <measure number="38" width="506">
+  <measure number="38" width="431">
    <attributes />
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
@@ -21736,7 +22058,7 @@
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="324" default-y="15">
+   <note color="#000000" default-x="277" default-y="15">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -21748,7 +22070,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="324">
+   <note color="#000000" default-x="277">
     <chord />
     <pitch>
      <step>B</step>
@@ -21785,7 +22107,7 @@
     <type>half</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="324" default-y="-40">
+   <note color="#000000" default-x="277" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -21797,7 +22119,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="324">
+   <note color="#000000" default-x="277">
     <chord />
     <pitch>
      <step>D</step>
@@ -21819,7 +22141,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -22095,7 +22417,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -22341,7 +22663,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -22564,7 +22886,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -22784,7 +23106,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -23049,7 +23371,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -23262,7 +23584,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -23486,7 +23808,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 53 ==============-->
-  <measure number="53" width="467">
+  <measure number="53" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -23495,7 +23817,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -23553,7 +23875,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 54 ==============-->
-  <measure number="54" width="246">
+  <measure number="54" width="341">
    <attributes />
    <note default-x="15">
     <rest />
@@ -23563,8 +23885,16 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
    <backup>
-    <duration>256</duration>
+    <duration>384</duration>
    </backup>
    <note default-x="15">
     <rest />
@@ -23574,11 +23904,24 @@
     <type>quarter</type>
     <staff>2</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>3</voice>
+    <type>eighth</type>
+    <staff>2</staff>
+   </note>
   </measure>
   <!--============== Part: P5, Measure: 55 ==============-->
-  <measure number="55" width="246">
-   <attributes />
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="55" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -23593,7 +23936,7 @@
    <backup>
     <duration>256</duration>
    </backup>
-   <note color="#000000" default-x="15" default-y="-40">
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -23605,7 +23948,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="15">
+   <note color="#000000" default-x="33">
     <chord />
     <pitch>
      <step>B</step>
@@ -23627,7 +23970,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -23872,7 +24215,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -24116,7 +24459,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -24365,7 +24708,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -24544,7 +24887,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -24850,7 +25193,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -25071,7 +25414,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -25298,7 +25641,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -25461,7 +25804,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 72 ==============-->
-  <measure number="72" width="257">
+  <measure number="72" width="341">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -25470,7 +25813,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -25485,8 +25828,16 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
    <backup>
-    <duration>256</duration>
+    <duration>384</duration>
    </backup>
    <note default-x="75">
     <rest />
@@ -25496,11 +25847,24 @@
     <type>quarter</type>
     <staff>2</staff>
    </note>
+   <note default-x="229">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>3</voice>
+    <type>eighth</type>
+    <staff>2</staff>
+   </note>
   </measure>
   <!--============== Part: P5, Measure: 73 ==============-->
-  <measure number="73" width="197">
-   <attributes />
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="73" width="187">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -25515,7 +25879,7 @@
    <backup>
     <duration>256</duration>
    </backup>
-   <note color="#000000" default-x="15" default-y="-40">
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -25527,7 +25891,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="15">
+   <note color="#000000" default-x="33">
     <chord />
     <pitch>
      <step>B</step>
@@ -25540,7 +25904,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 74 ==============-->
-  <measure number="74" width="506">
+  <measure number="74" width="431">
    <attributes />
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
@@ -25566,7 +25930,7 @@
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="324" default-y="15">
+   <note color="#000000" default-x="277" default-y="15">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -25578,7 +25942,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="324">
+   <note color="#000000" default-x="277">
     <chord />
     <pitch>
      <step>B</step>
@@ -25615,7 +25979,7 @@
     <type>half</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="324" default-y="-40">
+   <note color="#000000" default-x="277" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -25627,7 +25991,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="324">
+   <note color="#000000" default-x="277">
     <chord />
     <pitch>
      <step>D</step>
@@ -25649,7 +26013,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -25925,7 +26289,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -26171,7 +26535,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -26394,7 +26758,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -26614,7 +26978,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -26879,7 +27243,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -27092,7 +27456,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -27316,7 +27680,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 89 ==============-->
-  <measure number="89" width="467">
+  <measure number="89" width="396">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -27325,7 +27689,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -27383,7 +27747,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 90 ==============-->
-  <measure number="90" width="246">
+  <measure number="90" width="341">
    <attributes />
    <note default-x="15">
     <rest />
@@ -27393,8 +27757,16 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
    <backup>
-    <duration>256</duration>
+    <duration>384</duration>
    </backup>
    <note default-x="15">
     <rest />
@@ -27404,11 +27776,24 @@
     <type>quarter</type>
     <staff>2</staff>
    </note>
+   <note default-x="204">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P5-I1" />
+    <voice>3</voice>
+    <type>eighth</type>
+    <staff>2</staff>
+   </note>
   </measure>
   <!--============== Part: P5, Measure: 91 ==============-->
-  <measure number="91" width="246">
-   <attributes />
-   <note color="#000000" default-x="15" default-y="5">
+  <measure number="91" width="222">
+   <attributes>
+    <time color="#000000">
+     <beats>3</beats>
+     <beat-type>4</beat-type>
+    </time>
+   </attributes>
+   <note color="#000000" default-x="33" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -27423,7 +27808,7 @@
    <backup>
     <duration>256</duration>
    </backup>
-   <note color="#000000" default-x="15" default-y="-40">
+   <note color="#000000" default-x="33" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -27435,7 +27820,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="15">
+   <note color="#000000" default-x="33">
     <chord />
     <pitch>
      <step>B</step>
@@ -27457,7 +27842,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -27702,7 +28087,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -27946,7 +28331,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -28195,7 +28580,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -28374,7 +28759,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -28680,7 +29065,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -28901,7 +29286,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -29128,7 +29513,7 @@
      </system-margins>
     </system-layout>
     <staff-layout number="2">
-     <staff-distance>140</staff-distance>
+     <staff-distance>40</staff-distance>
     </staff-layout>
    </print>
    <attributes>
